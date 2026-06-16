@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: devsecops-app
-        image: 392900064210.dkr.ecr.us-east-1.amazonaws.com/devsecops-app:latest
+        image: 392900064210.dkr.ecr.us-east-1.amazonaws.com/devsecops-app:build-12
         ports:
         - containerPort: 8080

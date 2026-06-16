@@ -1,0 +1,2 @@
+# devsecops-manifests
+Gitops-Argocd
